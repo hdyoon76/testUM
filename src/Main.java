@@ -1,1 +1,1 @@
-111cncncdddmmmdddddd116d11kdddddddddddllldddd     ddd   ddddddddddddddddddddddddddddddddds111dddsssdddsdsddddddddsssddddddddxdddddd66+56+456dddd4cccssddddddddddddddddssdddd
+public class Main {    public static void main(String[] args) {        System. out.println("dHeddlddlo Worldddd" );    }}
