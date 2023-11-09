@@ -1,1 +1,1 @@
-public class Main {    public static void main(String[] args) {        System. out.println("1dHefddd88dddddlddl1o World1!!" );    }}
+public class Main {    public static void main(String[] args) {        System. out.println("1dHefddd88dd1dddlddl1o World1!!" );    }}
